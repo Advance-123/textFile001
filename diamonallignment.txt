@@ -1,3 +1,7 @@
 VXGA4C986CC3
 
 ---add text 001
+---Add text 002
+
+fixes AB#4
+
